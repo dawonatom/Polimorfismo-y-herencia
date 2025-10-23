@@ -112,7 +112,8 @@ Aparecerá el menú principal en tu consola, permitiéndote registrar, ver y eli
 ├── 📜 view.py            # La capa de Vista (Maneja todos los 'print' e 'input').
 ├── 📜 viewmodel.py        # La capa de ViewModel (Lógica de la UI, comandos).
 ├── 📜 repository.py       # La capa de Repositorio (Habla con Firebase).
-├── 📜 serviceAccountKey.json # Tu clave privada de Firebase (¡SECRETO!)
+├── 📜 serviceAccountKey.json # Tu clave privada de Firebase.
 └── 📜 requirements.txt    # Lista de dependencias
 
 ```
+
