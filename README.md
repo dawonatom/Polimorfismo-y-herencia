@@ -1,4 +1,4 @@
-# Enciclopedia de Animales (Demo MVVM-R) 🐾
+# Enciclopedia de Animales (MVVM-R) 🐾
 
 Este es un proyecto de consola en Python que demuestra la implementación de patrones de arquitectura de software avanzados (MVVM-R) para gestionar una "enciclopedia" de animales. El proyecto evolucionó desde un simple ejercicio de polimorfismo hasta una aplicación completa con persistencia en la nube.
 
@@ -114,4 +114,5 @@ Aparecerá el menú principal en tu consola, permitiéndote registrar, ver y eli
 ├── 📜 repository.py       # La capa de Repositorio (Habla con Firebase).
 ├── 📜 serviceAccountKey.json # Tu clave privada de Firebase (¡SECRETO!)
 └── 📜 requirements.txt    # Lista de dependencias
+
 ```
